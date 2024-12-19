@@ -1,0 +1,4 @@
+venv/
+data/raw_data/sec_filling.csv
+data/cleaned_data/cleaned_sec_filling.csv
+.DS_Store
